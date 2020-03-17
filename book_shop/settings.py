@@ -92,7 +92,7 @@ DATABASES = {
 
         # 配置数据库
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'spider',
+        'NAME': 'book_shop',
         'USER': 'root',
         'PASSWORD': '123456',
         'HOST': '127.0.0.1',
